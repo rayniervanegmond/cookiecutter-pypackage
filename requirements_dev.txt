@@ -1,0 +1,13 @@
+pytest
+pytest-runner
+tox
+cookiecutter
+pytest-cookies
+alabaster
+watchdog
+pyyaml
+mkdocs-material 
+mkdocstrings 
+mkdocs-git-revision-date-plugin 
+mkdocs-jupyter 
+ipykernel
